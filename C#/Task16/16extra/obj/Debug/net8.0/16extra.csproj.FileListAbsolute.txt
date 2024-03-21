@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\16extra.exe
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\16extra.deps.json
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\16extra.runtimeconfig.json
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\16extra.dll
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\16extra.pdb
+C:\Users\User\source\repos\Task16\16extra\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.AssemblyInfo.cs
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.csproj.Up2Date
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.dll
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\refint\16extra.dll
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.pdb
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\16extra.genruntimeconfig.cache
+C:\Users\User\source\repos\Task16\16extra\obj\Debug\net8.0\ref\16extra.dll
