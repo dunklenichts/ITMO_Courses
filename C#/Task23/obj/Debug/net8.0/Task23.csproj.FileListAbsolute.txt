@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Task16\Task23\bin\Debug\net8.0\Task23.exe
+C:\Users\User\source\repos\Task16\Task23\bin\Debug\net8.0\Task23.deps.json
+C:\Users\User\source\repos\Task16\Task23\bin\Debug\net8.0\Task23.runtimeconfig.json
+C:\Users\User\source\repos\Task16\Task23\bin\Debug\net8.0\Task23.dll
+C:\Users\User\source\repos\Task16\Task23\bin\Debug\net8.0\Task23.pdb
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.AssemblyInfo.cs
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.dll
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\refint\Task23.dll
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.pdb
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\Task23.genruntimeconfig.cache
+C:\Users\User\source\repos\Task16\Task23\obj\Debug\net8.0\ref\Task23.dll
